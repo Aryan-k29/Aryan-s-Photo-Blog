@@ -1,0 +1,21 @@
+body{
+    background-color: cyan;
+    text-align: center
+}
+
+img{
+    height: 300px;
+    width: 500px;
+}
+#image1{
+    margin-right: 100px
+}
+#id{
+    margin-right: 100px;
+    font-family: sans-serif;
+    font-size: 15px
+}
+h2{
+    font-family: sans-serif;
+    font-size: 15px;
+}
